@@ -15,3 +15,8 @@ Scenario: Verify Place has been succseefully retrive the bookingId_1
 Given Add place Payload with get_1
 When User calls with http request_1
 Then validate the points_1
+
+Scenario: Verify Place has been succseefully retrive the bookingId_2
+Given Add place Payload with get_1
+When User calls with http request_1
+Then validate the points_1
