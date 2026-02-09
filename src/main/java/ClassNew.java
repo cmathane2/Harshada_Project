@@ -15,4 +15,13 @@ public class ClassNew extends StringClass {
 	public void m4() {
 		System.out.println("harshi");
 	}
+	public void m5() {
+		System.out.println("harshi");
+	}
+	public void m6() {
+		System.out.println("harshi");
+	}
+	public void m7() {
+		System.out.println("harshi");
+	}
 }
