@@ -24,4 +24,10 @@ public class ClassNew extends StringClass {
 	public void m7() {
 		System.out.println("harshi");
 	}
+	public void m8() {
+		System.out.println("code changes in master branch");
+	}
+	public void m9() {
+		System.out.println("code changes in master branch changes 1");
+	}
 }
