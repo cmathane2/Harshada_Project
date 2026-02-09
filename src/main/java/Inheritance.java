@@ -21,4 +21,8 @@ public class Inheritance {
 		  c=a+b;
 		return c ;
 	}
+	public void method3()
+	{
+		System.out.println("Savita");
+	}
 }
