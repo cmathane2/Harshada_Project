@@ -48,5 +48,4 @@ public class ClassNew extends StringClass {
 		public void m15() {
 			System.out.println("code changes in master branch changes 1");
 		}
-		
 }
