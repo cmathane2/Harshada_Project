@@ -30,4 +30,7 @@ public class ClassNew extends StringClass {
 	public void m9() {
 		System.out.println("code changes in master branch changes 1");
 	}
+		public void m10() {
+		System.out.println("code changes in master branch changes 1");
+	}
 }
