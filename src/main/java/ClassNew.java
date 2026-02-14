@@ -9,6 +9,8 @@ public class ClassNew extends StringClass {
 		System.out.println("harshi");
 	}
 	
-
+	public void m3() {
+		System.out.println("harshi");
+	}
 		
 }
