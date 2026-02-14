@@ -9,64 +9,6 @@ public class ClassNew extends StringClass {
 		System.out.println("harshi");
 	}
 	
-	public void m3() {
-		System.out.println("harshi");
-	}
-	public void m4() {
-		System.out.println("harshi");
-	}
-	public void m5() {
-		System.out.println("harshi");
-	}
-	public void m6() {
-		System.out.println("harshi");
-	}
-	public void m7() {
-		System.out.println("harshi");
-	}
-	public void m8() {
-		System.out.println("code changes in master branch");
-	}
-	public void m9() {
-		System.out.println("code changes in master branch changes 1");
-	}
-		public void m10() {
-		System.out.println("code changes in master branch changes 1");
-	}
-		public void m11() {
-		System.out.println("code changes in master branch changes 1");
-	}
-		public void m12() {
-			System.out.println("code changes in master branch changes 1");
-		}
-		public void m13() {
-			System.out.println("code changes in master branch changes 1");
-		}
-		public void m14() {
-			System.out.println("code changes in master branch changes 1");
-		}
-		public void m17() {
-			System.out.println("code changes in master branch changes 1");
-		}
-		public void m18() {
-			System.out.println("code changes in master branch changes 1");
-		}
-		public void m15() {
-			System.out.println("code changes in master branch changes 1");
-		}
-		public void m16() {
-			System.out.println("code changes in master branch changes 1");
-		}
-		public void m1_19() {
-			System.out.println("code changes in master branch changes 1");
-		}
-		public void m1_20() {
-			System.out.println("code changes in master branch changes 1");
-		}
-	public void m21() {
-			System.out.println("code changes in master branch changes 1");
-		}
-		public void m22() {
-			System.out.println("code changes in master branch changes 1");
-		}
+
+		
 }
