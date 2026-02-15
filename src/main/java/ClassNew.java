@@ -29,9 +29,10 @@ public class ClassNew extends StringClass {
 		System.out.println("Method 4 from Intiliji ");
 	}
 	public void m10() {
-		System.out.println("Method 4 "); // done the changes 
+		System.out.println("Methodchanges ");
 	}
-		public void m11() {
-		System.out.println("Method 5 from Intiliji ");// change fro conflict
+	public void m11() {
+		System.out.println("Method done he cahnge ");
 	}
+
 }
