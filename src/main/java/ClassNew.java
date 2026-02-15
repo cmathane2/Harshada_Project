@@ -9,16 +9,20 @@ public class ClassNew extends StringClass {
 		System.out.println("harshi");
 	}
 	
-	public void m3() {
+	public void m3()
+	{
 		System.out.println("harshi");
 	}
 	public void m4() {
 		System.out.println("Method 4 from Intiliji ");
 	}
-		public void m5() {
+		public void m6() {
 		System.out.println("Method 4 from Intiliji ");
 	}
-	public void m6() {
+	public void m7() {
+		System.out.println("Method 4 from Intiliji ");
+	}
+	public void m8() {
 		System.out.println("Method 4 from Intiliji ");
 	}
 		
