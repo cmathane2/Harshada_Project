@@ -31,5 +31,7 @@ public class ClassNew extends StringClass {
 	public void m10() {
 		System.out.println("Method 4 from Intiliji ");
 	}
-		
+		public void m11() {
+		System.out.println("Method 4 from Intiliji ");
+	}
 }
