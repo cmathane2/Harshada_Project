@@ -38,10 +38,10 @@ public class ClassNew extends StringClass {
 		System.out.println("Method done he cahnge ");
 	}
 	public void m13() {
-		System.out.println("Method done he cahnge ");
+		System.out.println("Method done he cahnge _1 ");
 	}
 	public void m14() {
-		System.out.println("Method done he cahnge ");
+		System.out.println("Method done he cahnge _2");
 	}
 
 }
