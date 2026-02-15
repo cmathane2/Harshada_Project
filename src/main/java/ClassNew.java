@@ -25,5 +25,11 @@ public class ClassNew extends StringClass {
 	public void m8() {
 		System.out.println("Method 4 from Intiliji ");
 	}
+	public void m9() {
+		System.out.println("Method 4 from Intiliji ");
+	}
+	public void m10() {
+		System.out.println("Method 4 from Intiliji ");
+	}
 		
 }
