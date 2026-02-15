@@ -43,5 +43,8 @@ public class ClassNew extends StringClass {
 	public void m14() {
 		System.out.println("Method done he cahnge _2");
 	}
+	public void m15() {
+		System.out.println("Method done he cahnge ");
+	}
 
 }
