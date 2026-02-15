@@ -50,4 +50,17 @@ public class ClassNew extends StringClass {
 		System.out.println("Method done he cahnge ");
 	}
 
+	public void m18() {
+		System.out.println("Method done he cahnge ");
+	}
+	public void m19() {
+		System.out.println("Method done he cahnge111 ");
+	}
+public void m20() {
+		System.out.println("Method done he cahnge123 ");
+	}
+	public void m21() {
+		System.out.println("Method done he cahnge21 ");
+	}
+
 }
