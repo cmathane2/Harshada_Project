@@ -6,6 +6,7 @@
       <class name="com.sdet.firsttest">
         <methods>
           <include name="Test3"/>
+          <include name="Test1"/>
         </methods>
       </class> <!-- com.sdet.firsttest -->
     </classes>

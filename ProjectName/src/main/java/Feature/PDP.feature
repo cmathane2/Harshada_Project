@@ -1,4 +1,4 @@
-Feature: Login functionality
+Feature: PDP functionality
 # @sanity 
 #  Scenario: CRM login password and
 #    Given user already on login page
@@ -16,7 +16,7 @@ Feature: Login functionality
 #    And close the browser
     
     
-    Scenario: Login to OpenCart
+    Scenario: Open PDP Page
     Given Launch the  OpenCart
     When title of the page is OpenCart
     Then click on Register button                      
